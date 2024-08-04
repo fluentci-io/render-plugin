@@ -1,0 +1,12 @@
+[package]
+name = "render"
+version = "0.1.0"
+description = "CI/CD Plugin for render"
+license = "MIT"
+keywords = [
+  "deploy",
+  "render"
+]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>"
+]
